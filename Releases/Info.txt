@@ -1,0 +1,3 @@
+v1 - internal bit vectors(?)
+v2 - file object and preamble insertion etc. no synch
+v3 - synch
